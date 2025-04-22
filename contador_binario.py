@@ -32,3 +32,11 @@ def contador(tiempo, digitos = 4, retardo = 1):
         time.sleep(retardo)
 
 contador(16, 4, 1)
+
+################################################################
+
+'''
+Integrantes:
+            Kevin Gastaldello
+            Franco Joel Ghilardi Armijo
+'''
